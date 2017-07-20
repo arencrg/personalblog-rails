@@ -1,0 +1,56 @@
+// Place all the styles related to the Welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#welcomeindex {
+  display: inline-block;
+  text-align: center;
+  margin: 0 0 0 0;
+  padding: 2% 6% 0 6% !important;
+}
+
+#intro {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  border: 5px solid black;
+}
+
+#welcometitle {
+  Font-Family: 'Roboto', Sans-Serif;
+  text-transform: uppercase;
+  font-size: 60px;
+  letter-spacing: 5px;
+  padding: 30px 2% 0 2%;
+}
+
+#quote {
+  padding: 0 7% 30px 7%;
+  font-size: 18px;
+}
+
+#open {
+  font-family: 'Roboto', Sans-Serif;
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  padding-top: 40px;
+  color: white !important;
+}
+
+#open a {
+  text-decoration: none !important;
+  background: black;
+  padding: 5px 20px 5px 20px;
+  color: white;
+}
+    #open a:hover {
+      font-weight: bolder;
+      text-decoration: none !important;
+      color: black !important;
+      background: #eeeeee;
+      border: black 3px solid;
+    }
+    #open a:visited {
+      text-decoration: line-through !important;
+    }
