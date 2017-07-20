@@ -1,24 +1,7 @@
-# README
+# Personal Blog on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my first attempt at creating a blog with Rails. I've been absent for class for around 3ish days so I've been trying to catch up whenever my head isn't being squished inside my own skull. I've been able to catch up quite fast even tho I sometimes feel like I'm still trying to get a feel of things. Baby steps, as always. 
 
-Things you may want to cover:
+(20 Jul 2017) I've only managed to design the landing page. The other pages are all bare, but I plan to finish all the designs within the week.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+------
